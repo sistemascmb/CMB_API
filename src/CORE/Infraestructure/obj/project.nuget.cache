@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jT5eDNlECWM=",
+  "dgSpecHash": "rXaS8R+4l0o=",
   "success": true,
-  "projectFilePath": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Infraestructure\\Infraestructure.csproj",
+  "projectFilePath": "D:\\DEV\\API_INTELGASTRO\\API_INTELGASTRO\\src\\CORE\\Infraestructure\\Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SISTEMAS CMB\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\SISTEMAS CMB\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

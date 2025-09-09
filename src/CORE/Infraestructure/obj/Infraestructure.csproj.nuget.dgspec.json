@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Infraestructure\\Infraestructure.csproj": {}
+    "D:\\DEV\\API_INTELGASTRO\\API_INTELGASTRO\\src\\CORE\\Infraestructure\\Infraestructure.csproj": {}
   },
   "projects": {
-    "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Domain\\Domain.csproj": {
+    "D:\\DEV\\API_INTELGASTRO\\API_INTELGASTRO\\src\\CORE\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\DEV\\API_INTELGASTRO\\API_INTELGASTRO\\src\\CORE\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Domain\\Domain.csproj",
+        "projectPath": "D:\\DEV\\API_INTELGASTRO\\API_INTELGASTRO\\src\\CORE\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\SISTEMAS CMB\\.nuget\\packages\\",
-        "outputPath": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Domain\\obj\\",
+        "outputPath": "D:\\DEV\\API_INTELGASTRO\\API_INTELGASTRO\\src\\CORE\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Infraestructure\\Infraestructure.csproj": {
+    "D:\\DEV\\API_INTELGASTRO\\API_INTELGASTRO\\src\\CORE\\Infraestructure\\Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "D:\\DEV\\API_INTELGASTRO\\API_INTELGASTRO\\src\\CORE\\Infraestructure\\Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Infraestructure\\Infraestructure.csproj",
+        "projectPath": "D:\\DEV\\API_INTELGASTRO\\API_INTELGASTRO\\src\\CORE\\Infraestructure\\Infraestructure.csproj",
         "packagesPath": "C:\\Users\\SISTEMAS CMB\\.nuget\\packages\\",
-        "outputPath": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Infraestructure\\obj\\",
+        "outputPath": "D:\\DEV\\API_INTELGASTRO\\API_INTELGASTRO\\src\\CORE\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Domain\\Domain.csproj"
+              "D:\\DEV\\API_INTELGASTRO\\API_INTELGASTRO\\src\\CORE\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\DEV\\API_INTELGASTRO\\API_INTELGASTRO\\src\\CORE\\Domain\\Domain.csproj"
               }
             }
           }
