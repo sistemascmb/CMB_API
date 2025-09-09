@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Px3sQUUu0Js=",
+  "dgSpecHash": "PxF1PB+SsEU=",
   "success": true,
-  "projectFilePath": "D:\\DEV\\API_CMB\\API_CMB\\src\\API\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\DEV\\API_INTELGASTRO\\API_INTELGASTRO\\src\\API\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SISTEMAS CMB\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\SISTEMAS CMB\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
