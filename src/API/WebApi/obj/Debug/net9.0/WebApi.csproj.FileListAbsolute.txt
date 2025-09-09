@@ -90,5 +90,4 @@ D:\DEV\API_CMB\API_CMB\src\API\WebApi\obj\Debug\net9.0\refint\WebApi.dll
 D:\DEV\API_CMB\API_CMB\src\API\WebApi\obj\Debug\net9.0\WebApi.pdb
 D:\DEV\API_CMB\API_CMB\src\API\WebApi\obj\Debug\net9.0\WebApi.genruntimeconfig.cache
 D:\DEV\API_CMB\API_CMB\src\API\WebApi\obj\Debug\net9.0\ref\WebApi.dll
-D:\DEV\API_CMB\API_CMB\src\API\WebApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\DEV\API_CMB\API_CMB\src\API\WebApi\obj\Debug\net9.0\WebApi.sourcelink.json
