@@ -13,3 +13,4 @@ D:\DEV\API_CMB\API_CMB\src\CORE\Infraestructure\obj\Release\net9.0\Infraestructu
 D:\DEV\API_CMB\API_CMB\src\CORE\Infraestructure\obj\Release\net9.0\refint\Infraestructure.dll
 D:\DEV\API_CMB\API_CMB\src\CORE\Infraestructure\obj\Release\net9.0\Infraestructure.pdb
 D:\DEV\API_CMB\API_CMB\src\CORE\Infraestructure\obj\Release\net9.0\ref\Infraestructure.dll
+D:\DEV\API_CMB\API_CMB\src\CORE\Infraestructure\obj\Release\net9.0\Infraestructure.sourcelink.json

@@ -75,8 +75,8 @@ namespace Infraestructure.Repositories
 
                 object parameters = new
                 {
-                    Fecha = DateTime.Now.ToShortDateString(),
-                    Hora = DateTime.Now.ToShortTimeString(),
+                    Fecha = DateTime.Now.ToString("yyyy-MM-dd"),
+                    Hora = DateTime.Now.ToString("HH:mm"),
                     IdUsuario = 311,
                     Equipo = Environment.MachineName,
                     IdProveedor = 144,

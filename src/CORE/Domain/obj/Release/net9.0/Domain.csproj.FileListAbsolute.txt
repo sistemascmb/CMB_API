@@ -9,3 +9,4 @@ D:\DEV\API_CMB\API_CMB\src\CORE\Domain\obj\Release\net9.0\Domain.dll
 D:\DEV\API_CMB\API_CMB\src\CORE\Domain\obj\Release\net9.0\refint\Domain.dll
 D:\DEV\API_CMB\API_CMB\src\CORE\Domain\obj\Release\net9.0\Domain.pdb
 D:\DEV\API_CMB\API_CMB\src\CORE\Domain\obj\Release\net9.0\ref\Domain.dll
+D:\DEV\API_CMB\API_CMB\src\CORE\Domain\obj\Release\net9.0\Domain.sourcelink.json

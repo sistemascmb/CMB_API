@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\DEV\\API_CMB\\API_CMB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E852898C-6379-423C-9EA1-4E6B444BBD60}|src\\CORE\\Infraestructure\\Infraestructure.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\core\\infraestructure\\persistence\\dapperwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E852898C-6379-423C-9EA1-4E6B444BBD60}|src\\CORE\\Infraestructure\\Infraestructure.csproj|solutionrelative:src\\core\\infraestructure\\persistence\\dapperwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6D7A1FD-92BC-4121-83C5-0E37DF6CE37B}|src\\CORE\\Domain\\Domain.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\core\\domain\\entities\\archivodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7A1FD-92BC-4121-83C5-0E37DF6CE37B}|src\\CORE\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\archivodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E852898C-6379-423C-9EA1-4E6B444BBD60}|src\\CORE\\Infraestructure\\Infraestructure.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\core\\infraestructure\\repositories\\archivodigitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E852898C-6379-423C-9EA1-4E6B444BBD60}|src\\CORE\\Infraestructure\\Infraestructure.csproj|solutionrelative:src\\core\\infraestructure\\repositories\\archivodigitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\api\\webapi\\application\\services\\archivodigitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|solutionrelative:src\\api\\webapi\\application\\services\\archivodigitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7A1FD-92BC-4121-83C5-0E37DF6CE37B}|src\\CORE\\Domain\\Domain.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\core\\domain\\repositoriesinterfaces\\iarchivodigitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7A1FD-92BC-4121-83C5-0E37DF6CE37B}|src\\CORE\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\repositoriesinterfaces\\iarchivodigitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\api\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|solutionrelative:src\\api\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\api\\webapi\\controllers\\archivodigitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|solutionrelative:src\\api\\webapi\\controllers\\archivodigitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E852898C-6379-423C-9EA1-4E6B444BBD60}|src\\CORE\\Infraestructure\\Infraestructure.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\core\\infraestructure\\persistence\\dapperwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E852898C-6379-423C-9EA1-4E6B444BBD60}|src\\CORE\\Infraestructure\\Infraestructure.csproj|solutionrelative:src\\core\\infraestructure\\persistence\\dapperwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\api\\webapi\\application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +39,8 @@
       "RelativeMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|solutionrelative:src\\api\\webapi\\application\\services\\currentarchivodigitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\api\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|solutionrelative:src\\api\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\api\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|solutionrelative:src\\api\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\api\\webapi\\application\\services\\archivodigitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|solutionrelative:src\\api\\webapi\\application\\services\\archivodigitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6D7A1FD-92BC-4121-83C5-0E37DF6CE37B}|src\\CORE\\Domain\\Domain.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\core\\domain\\entities\\archivodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6D7A1FD-92BC-4121-83C5-0E37DF6CE37B}|src\\CORE\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\archivodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\api\\webapi\\controllers\\archivodigitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|solutionrelative:src\\api\\webapi\\controllers\\archivodigitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -44,10 +48,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\api\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C34F1E99-7DE1-4688-82D2-113865ED4D49}|src\\API\\WebApi\\WebApi.csproj|solutionrelative:src\\api\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6D7A1FD-92BC-4121-83C5-0E37DF6CE37B}|src\\CORE\\Domain\\Domain.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\core\\domain\\repositoriesinterfaces\\iarchivodigitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6D7A1FD-92BC-4121-83C5-0E37DF6CE37B}|src\\CORE\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\repositoriesinterfaces\\iarchivodigitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6D7A1FD-92BC-4121-83C5-0E37DF6CE37B}|src\\CORE\\Domain\\Domain.csproj|d:\\dev\\api_cmb\\api_cmb\\src\\core\\domain\\domaininterfaces\\icurrentarchivodigital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 278,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -71,13 +71,13 @@
               "RelativeDocumentMoniker": "src\\CORE\\Infraestructure\\Repositories\\ArchivoDigitalRepository.cs",
               "ToolTip": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Infraestructure\\Repositories\\ArchivoDigitalRepository.cs",
               "RelativeToolTip": "src\\CORE\\Infraestructure\\Repositories\\ArchivoDigitalRepository.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAAGcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAMwFIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-17T00:26:31.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\DEV\\API_CMB\\API_CMB\\src\\API\\WebApi\\Application\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "src\\API\\WebApi\\Application\\Mapping\\MappingProfile.cs",
@@ -89,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "CurrentArchivoDigitalService.cs",
               "DocumentMoniker": "D:\\DEV\\API_CMB\\API_CMB\\src\\API\\WebApi\\Application\\Services\\CurrentArchivoDigitalService.cs",
               "RelativeDocumentMoniker": "src\\API\\WebApi\\Application\\Services\\CurrentArchivoDigitalService.cs",
@@ -113,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\DEV\\API_CMB\\API_CMB\\src\\API\\WebApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "src\\API\\WebApi\\appsettings.Development.json",
@@ -125,56 +125,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ArchivoDigitalService.cs",
               "DocumentMoniker": "D:\\DEV\\API_CMB\\API_CMB\\src\\API\\WebApi\\Application\\Services\\ArchivoDigitalService.cs",
               "RelativeDocumentMoniker": "src\\API\\WebApi\\Application\\Services\\ArchivoDigitalService.cs",
               "ToolTip": "D:\\DEV\\API_CMB\\API_CMB\\src\\API\\WebApi\\Application\\Services\\ArchivoDigitalService.cs",
               "RelativeToolTip": "src\\API\\WebApi\\Application\\Services\\ArchivoDigitalService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA0wCMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-17T23:54:39.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "ArchivoDigital.cs",
               "DocumentMoniker": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Domain\\Entities\\ArchivoDigital.cs",
               "RelativeDocumentMoniker": "src\\CORE\\Domain\\Entities\\ArchivoDigital.cs",
               "ToolTip": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Domain\\Entities\\ArchivoDigital.cs",
               "RelativeToolTip": "src\\CORE\\Domain\\Entities\\ArchivoDigital.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T00:28:05.444Z"
+              "WhenOpened": "2025-08-17T00:28:05.444Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "DapperWrapper.cs",
               "DocumentMoniker": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Infraestructure\\Persistence\\DapperWrapper.cs",
               "RelativeDocumentMoniker": "src\\CORE\\Infraestructure\\Persistence\\DapperWrapper.cs",
               "ToolTip": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Infraestructure\\Persistence\\DapperWrapper.cs",
               "RelativeToolTip": "src\\CORE\\Infraestructure\\Persistence\\DapperWrapper.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T17:24:40.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T17:24:40.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "ArchivoDigitalController.cs",
               "DocumentMoniker": "D:\\DEV\\API_CMB\\API_CMB\\src\\API\\WebApi\\Controllers\\ArchivoDigitalController.cs",
               "RelativeDocumentMoniker": "src\\API\\WebApi\\Controllers\\ArchivoDigitalController.cs",
               "ToolTip": "D:\\DEV\\API_CMB\\API_CMB\\src\\API\\WebApi\\Controllers\\ArchivoDigitalController.cs",
               "RelativeToolTip": "src\\API\\WebApi\\Controllers\\ArchivoDigitalController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBgAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T17:35:31.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -184,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\DEV\\API_CMB\\API_CMB\\src\\API\\WebApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\API\\WebApi\\Properties\\launchSettings.json",
@@ -196,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "IArchivoDigitalRepository.cs",
               "DocumentMoniker": "D:\\DEV\\API_CMB\\API_CMB\\src\\CORE\\Domain\\RepositoriesInterfaces\\IArchivoDigitalRepository.cs",
               "RelativeDocumentMoniker": "src\\CORE\\Domain\\RepositoriesInterfaces\\IArchivoDigitalRepository.cs",
